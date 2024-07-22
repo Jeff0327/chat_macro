@@ -1,0 +1,28 @@
+# PyInstaller 디렉토리들
+/build/
+/__pycache__/
+/*.spec
+
+# Python 관련 파일들
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+*.egg
+*.egg-info
+*.eggs
+
+# 가상환경 디렉토리
+venv/
+.env/
+.venv/
+myenv/
+
+# 운영체제 관련 파일들
+.DS_Store
+Thumbs.db
+
+# 환경설정 파일들
+.idea/
+.vscode/
