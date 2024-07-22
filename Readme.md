@@ -25,5 +25,5 @@
 
 ## 문의 및 지원
 
-- 문제가 발생하면 [GitHub Issues](https://github.com/your-repo/issues)에 보고해 주세요.
+- 문제가 발생하면 [GitHub Issues](https://github.com/chat_macro/issues)에 보고해 주세요.
 - 추가적인 도움이나 피드백은 커뮤니티 포럼을 통해 제공됩니다.
