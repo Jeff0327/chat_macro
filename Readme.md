@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=채팅%20매크로&fontSize=80&animation=fadeIn&fontAlignY=50&desc=간편한%20채팅%20매크로%20도구&descAlignY=70&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=채팅%20매크로&fontSize=80&animation=fadeIn&fontAlignY=50)
 
 
 # 채팅 매크로
