@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=채팅%20매크로&fontSize=90&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=200&section=header&text=채팅%20매크로&fontSize=80&animation=fadeIn&fontAlignY=50&desc=간편한%20채팅%20매크로%20도구&descAlignY=70&descAlign=50)
+
 
 # 채팅 매크로
 
@@ -25,5 +26,5 @@
 
 ## 문의 및 지원
 
-- 문제가 발생하면 [GitHub Issues](https://github.com/chat_macro/issues)에 보고해 주세요.
+- 문제가 발생하면 [GitHub Issues](https://github.com/Jeff0327/chat_macro/issues)에 보고해 주세요.
 - 추가적인 도움이나 피드백은 커뮤니티 포럼을 통해 제공됩니다.
